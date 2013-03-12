@@ -19,7 +19,8 @@
       "socket.io": "*",
       "connect": "*",
       "async": "*",
-      "sha1": "*"
+      "sha1": "*",
+      "images": "*"
   },
   "devDependencies": {
     "tap": "*"
