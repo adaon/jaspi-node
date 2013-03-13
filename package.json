@@ -20,7 +20,8 @@
       "connect": "*",
       "async": "*",
       "sha1": "*",
-      "images": "*"
+      "images": "*",
+      "emailjs": "*"
   },
   "devDependencies": {
     "tap": "*"
