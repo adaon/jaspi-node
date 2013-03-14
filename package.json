@@ -11,19 +11,25 @@
     "javascript",
     "framework"
   ],
-  "author": "adaon",
+  "author": {
+    "name": "adaon"
+  },
   "license": "BSD",
   "dependencies": {
-      "underscore": "*",
-      "mongodb": "*",
-      "socket.io": "*",
-      "connect": "*",
-      "async": "*",
-      "sha1": "*",
-      "images": "*",
-      "emailjs": "*"
+    "underscore": "*",
+    "mongodb": "*",
+    "socket.io": "*",
+    "connect": "*",
+    "async": "*",
+    "sha1": "*",
+    "images": "*",
+    "emailjs": "*"
   },
   "devDependencies": {
     "tap": "*"
-  }
+  },
+  "readme": "Jaspi Node\r\n==========",
+  "readmeFilename": "README.md",
+  "_id": "jaspi@0.0.1",
+  "_from": "jaspi@0.0.x"
 }
