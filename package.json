@@ -22,7 +22,6 @@
     "connect": "*",
     "async": "*",
     "sha1": "*",
-    "images": "*",
     "emailjs": "*"
   },
   "devDependencies": {
