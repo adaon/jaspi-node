@@ -30,5 +30,5 @@
   "readme": "Jaspi Node\r\n==========",
   "readmeFilename": "README.md",
   "_id": "jaspi@0.0.1",
-  "_from": "jaspi@0.0.x"
+  "_from": "jaspi@*"
 }
